@@ -2,4 +2,4 @@
 
 
 
-![](.\img_posts\Fiis.jpg)
+![](./img_posts/Fiis.jpg)

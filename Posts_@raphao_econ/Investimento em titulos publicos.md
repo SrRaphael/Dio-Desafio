@@ -2,4 +2,4 @@
 
 
 
-![](.\img_posts\lala.jpg)
+![](./img_posts/lala.jpg)
