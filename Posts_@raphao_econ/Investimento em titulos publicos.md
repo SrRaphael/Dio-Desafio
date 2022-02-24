@@ -2,4 +2,4 @@
 
 
 
-![](F:\Desktop\AnjoFinanceiro_\Instagram\lala.jpg)
+![](.\img_posts\lala.jpg)

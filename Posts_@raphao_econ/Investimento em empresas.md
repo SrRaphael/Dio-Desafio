@@ -2,4 +2,4 @@
 
 
 
-![](F:\Desktop\AnjoFinanceiro_\Instagram\Investimento em ações.jpg)
+![](.\img_posts\Investimento em ações.jpg)

@@ -4,4 +4,5 @@
 
 
 
-# ![](F:\Desktop\AnjoFinanceiro_\Instagram\Criptomoeda.jpg)
+# ![](.\img_posts\Criptomoeda.jpg)
+
