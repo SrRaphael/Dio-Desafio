@@ -4,5 +4,5 @@
 
 
 
-# ![](.\img_posts\Criptomoeda.jpg)
+# ![](./img_posts/Criptomoeda.jpg)
 
